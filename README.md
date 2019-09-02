@@ -3,10 +3,13 @@ This web app help you in locating all the hotel's and filter out the hotel's bas
 
 ### Screenshots
 #### Home Page
-![Home Page](./assets/screenshot-1.png)
+![Home Page](assets/screenshot-1.png)
 
 #### Rooms Pages
-![Rooms Page](./assets/screenshot-2.png)
+![Rooms Page](assets/screenshot-2.png)
 
 #### Single Room Page
-![Single Room](./assets/screenshot-3.png)
+![Single Room](assets/screenshot-3.png)
+
+### Reference
+[FreeCodeCamp Tutorial](https://www.youtube.com/watch?v=LXJOvkVYQqA)
