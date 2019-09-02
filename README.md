@@ -3,10 +3,10 @@ This web app help you in locating all the hotel's and filter out the hotel's bas
 
 ### Screenshots
 #### Home Page
-![Home Page](/src/images/screenshot-1.png)
+![Home Page](./src/images/screenshot-1.png)
 
 #### Rooms Pages
-![Rooms Page](/src/images/screenshot-2.png)
+![Rooms Page](./src/images/screenshot-2.png)
 
 #### Single Room Page
-![Single Room](/src/images/screenshot-3.png)
+![Single Room](./src/images/screenshot-3.png)
