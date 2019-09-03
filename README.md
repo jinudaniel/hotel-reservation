@@ -1,5 +1,5 @@
 # Beach Hotel
-This web app help you in locating all the hotel's and filter out the hotel's based on your requirement and budget. Created using React, Contentful and deployed on Netlify.
+This web app helps you in locating all the hotel's and filter out the hotel's based on your requirement and budget. Created using React, Contentful and deployed on Netlify.
 
 ### Screenshots
 #### Home Page
